@@ -1,0 +1,199 @@
+.navbar-collapse{
+    justify-content: flex-end;
+}
+
+.row{
+    margin-top: 20px;
+}
+
+header{
+    width: 100%;
+    position: relative;
+    height: 100vh;
+    background: url("../imgg/plano.jpg");
+}
+
+header .container{
+    width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+header .container a{
+    text-align: end;
+    color: #fff;
+    margin-top: 60px;
+}
+
+
+
+header .content{
+    display: inline-block;
+    margin-top: 60px;
+    
+}
+
+.img{
+    transition: -4s;
+    width: 100px;
+    text-align: center;
+}
+
+header button{
+    width: 800px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+header .content h1{
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 50px;
+    margin: 0px;
+    text-align: center;
+}
+
+
+header .content p{
+    color: #fff;
+    text-transform: uppercase;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    margin: 0px;
+    margin-left: 350px;
+    margin-top: 15px;
+}
+    
+.maque{
+    width: 100%;
+    height: 120vh;
+    position: relative;
+    background: url("../imgg/maquetass.png");
+}
+
+.maque h1{
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+    text-align: right;
+}
+
+.planos{
+    width: 100%;
+    height: 120vh;
+    position: relative;
+    background: url("../imgg/planoss.png");
+
+}
+
+.galeria{
+    width: 100%;
+    height: 120vh;
+    position: relative;
+    background: url("../imgg/plano.jpg");
+
+}
+
+
+
+
+.carousel{
+    max-width: 30%;
+    position: absolute;
+    margin-left: 490px;
+    margin-top: 35px;
+}
+
+#contacto{
+    width: 100%;
+    position: relative;
+    background: #6d6969;
+    text-align: center;
+    padding: 80px 0px 100px;
+}
+
+#contacto .container{
+    width: 1140px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+#contacto .container h2{
+    font-size: 44px;
+    font-family: "Montserrat", sans-serif;
+}
+
+#contacto .container p{
+    font-size: 22px;
+    font-family: "Montserrat", sans-serif;
+}
+
+#contacto .container form{
+    max-width: 820px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+#contacto .container form .row{
+    display: flex;
+    justify-content: center;
+}
+
+#contacto .container form .row input{
+    width: 35%;
+    padding: 8px 10px;
+    margin: 10px 15px;
+    border-radius: 4px;
+}
+
+#contacto .container form .row select{
+    width: 38%;
+    padding: 8px 10px;
+    margin: 10px 15px;
+    border-radius: 4px;
+}
+
+#contacto .container form button{
+    padding: 8px 40px;
+    border: 0px;
+    color: #fff;
+    margin-top: 20px;
+    background: #000000;
+    border-radius: 6px;
+}
+
+/* FOOTER */
+
+footer{
+    background: #000;
+    padding: 40px 20px 60px;
+    text-align: center;
+}
+
+footer p{
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+}
+
+
+
+
+
+/*<nav class="nav flex-column">
+              <a class="nav-link active" href="#">PERFIL PROFESIONAL</a>
+              <a class="nav-link" href="#">EXPERIENCIA LABORAL</a>
+              
+              <a class="nav-link" href="#">ESTUDIOS</a>
+              <a class="nav-link" href="#">CONTÁCTO</a>
+              
+
+              <div class="container">
+           <section class="content">
+               <h1>LUIS ALFREDO<br>MERCHÁN VEGA</h1>
+               <p>-DIBUJANTE ARQUITECTÓNICO</p>
+
+               
+            </nav>*/
+
